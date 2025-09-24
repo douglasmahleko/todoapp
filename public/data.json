@@ -1,0 +1,68 @@
+{
+  "todos": [
+    {
+      "title": "eat",
+      "description": "eating keeps you energetic sdv;oysdbckldmvm/klc sdmvndjkvbdhcvhkd c bhjsdbvjodbvdVHb fbvifvbdcbzjlbnl",
+      "status": true,
+      "user": "tsimango",
+      "id": "20"
+    },
+    {
+      "title": "workout",
+      "description": "hustle no one is saving you dvupgfvjknfuivhui hnduoivhls;fuiv ni bsuidfvhsdyigfsuihcnh hudsigidyucbdhicjk byisdvyfwghfcdbhjcjbvduvcau",
+      "date": "Chitungwiza",
+      "user": "dmahleko",
+      "status": true,
+      "id": "35"
+    },
+    {
+      "title": "work",
+      "description": "hustle no one is saving you dvupgfvjknfuivhui hnduoivhls;fuiv ni bsuidfvhsdyigfsuihcnh hudsigidyucbdhicjk byisdvyfwghfcdbhjcjbvduvcau",
+      "date": "Chitungwiza",
+      "user": "tsimango",
+      "status": true,
+      "id": "31"
+    },
+    {
+      "title": "visit",
+      "description": "i want to see my brothers family after all errands ",
+      "status": true,
+      "id": "8754109727"
+    },
+    {
+      "title": "fuck",
+      "description": "ha panoda kuwachisa munhu apa ha kune vanosaiza",
+      "status": true,
+      "user": "tsimango",
+      "id": "78594463744"
+    },
+    {
+      "title": "kuona mwana",
+      "description": "ha ndamusuwa mana",
+      "status": true,
+      "user": "tsimango",
+      "id": "092110760283"
+    },
+    {
+      "title": "kuwacha",
+      "description": "ha heyimani dzasvipa",
+      "status": true,
+      "user": "tsimango",
+      "id": "94727918201"
+    },
+    {
+      "id": "46496361334",
+      "title": "work out",
+      "description": "there work to do for my body",
+      "status": false,
+      "user": "dmahleko"
+    },
+    {
+      "title": "coding",
+      "description": "pakashata code ndainyorwe ndagarisa",
+      "status": false,
+      "user": "tsimango",
+      "id": "77627949031"
+    }
+  ]
+}
